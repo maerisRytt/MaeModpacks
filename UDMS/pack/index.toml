@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+hash = "8cc27b62b8afc7d05aa4b41434be3dcc867464823f73e9753bc92a446434e0cf"
 metafile = true
 
 [[files]]
@@ -102,5 +102,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-askew-music-combination-pack.pw.toml"
-hash = "a0469fbab9b30d73c6e00ce0cd3a38418ded6e79bea5041b6f058548fa0e1c11"
+hash = "383ed3f55b053e618d51fcfc32145f6205cbf332a7e9988aaef81c441c4a1924"
 metafile = true
