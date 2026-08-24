@@ -6,16 +6,6 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
-metafile = true
-
-[[files]]
-file = "mods/blueprint.pw.toml"
-hash = "8497840a336f7d98a140959ab6c5102ab377c19e25b7f467ef5658aea1d680db"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
 metafile = true
@@ -26,33 +16,13 @@ hash = "17ebd5f3f57f659d364041ff834ee8c3855d206b3e333c24da4b9c1e637259cb"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
-metafile = true
-
-[[files]]
-file = "mods/elysium-api.pw.toml"
-hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
 metafile = true
 
 [[files]]
@@ -71,43 +41,13 @@ hash = "a21b5d4f95cf3c7cbf704bb0b42138ec9271663a5a2c0ed7b9601e4bf179604e"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "1e5995b1594b080c95279dc079bdf98c30f616b04f5ef0fffafb2a273cd0eeb6"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "77db38b9f476e5a488532b9fc1c35586e3e1a382bdd901cdc4736c7c36680ff7"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "24545661045627a8badd9ce705979a85cb1d0d32ff95f4de4ebbbf5e5d503cc7"
 metafile = true
 
 [[files]]
-file = "mods/infiniverse.pw.toml"
-hash = "4738e96127529953419e493e58fab2cbe6b7e221b20b0b06b58f5d0fc86bfaa7"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
-metafile = true
-
-[[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
 hash = "18fdaa8b6729867b1862ea80eba84effc90f63b8d230eb529c5a949b30ae2695"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -118,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
-metafile = true
-
-[[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
 metafile = true
 
 [[files]]
@@ -138,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "c1c2388e4321bd322cb3dec7a5b33fa11747b4c6ce50a96f5921c3248c028639"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -168,16 +98,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "62885ac418449fc267d956bbb804d875c74b6eabf98b548a43f9fa740d75c2be"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "6a89251bae4eebf942681cdb5cf017f051e2c62cb953ea72aa2d9f93c495454e"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
 
 [[files]]
