@@ -16,18 +16,13 @@ hash = "17ebd5f3f57f659d364041ff834ee8c3855d206b3e333c24da4b9c1e637259cb"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8cc27b62b8afc7d05aa4b41434be3dcc867464823f73e9753bc92a446434e0cf"
+hash = "b29b6324416dcea4fa01190e5521964cc5f4499b20c9e2bd676fa1be844515d8"
 metafile = true
 
 [[files]]
@@ -56,11 +51,6 @@ hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
-metafile = true
-
-[[files]]
 file = "mods/oreganized.pw.toml"
 hash = "2bcbd84a4d63ae08228850a308adc509936b4c7b8475f10834e238345f7a216d"
 metafile = true
@@ -78,16 +68,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
