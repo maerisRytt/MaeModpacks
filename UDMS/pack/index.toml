@@ -71,11 +71,6 @@ hash = "26ab7729d0c872d06396d74521049f2f4415c19ae021dde96b7c09e3e3c01ad6"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "c1c2388e4321bd322cb3dec7a5b33fa11747b4c6ce50a96f5921c3248c028639"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
