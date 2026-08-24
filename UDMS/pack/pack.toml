@@ -1,0 +1,17 @@
+name = "PROPHECY"
+author = "W.D. GASTER @ ROYAL SCIENCES INC"
+version = "1.0.0"
+description = "MY. DELTARUNE."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8511f63f282265c531c0e57aa86a24a11e638bf4bcfe72b9f9894b95c0c2aa27"
+
+[versions]
+forge = "47.4.23"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = []
