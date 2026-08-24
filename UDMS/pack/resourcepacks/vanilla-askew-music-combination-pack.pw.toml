@@ -1,13 +1,15 @@
 name = "Vanilla & Askew MUSIC COMBINATION PACK"
-filename = "Even Score 5.zip"
 side = "client"
+filename = "Even Score 5.zip"
 
-[download]
-url = "https://cdn.modrinth.com/data/cxcd9MbV/versions/vi9tCZqk/Even%20Score%205.zip"
-hash-format = "sha512"
-hash = "7fb2ffbdd846f68f11ffa1fdf9a2ed7d46f9d9ee2c271b7ee1d41dd9c12b5c2ae3c3adc6a790db9315c880716c0dac7cfda4bb957e65e6483311b8cac4dae8f1"
-
-[update]
 [update.modrinth]
 mod-id = "cxcd9MbV"
 version = "vi9tCZqk"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/cxcd9MbV/versions/vi9tCZqk/Even%20Score%205.zip"
+hash = "7fb2ffbdd846f68f11ffa1fdf9a2ed7d46f9d9ee2c271b7ee1d41dd9c12b5c2ae3c3adc6a790db9315c880716c0dac7cfda4bb957e65e6483311b8cac4dae8f1"
+
+[option]
+optional = true
