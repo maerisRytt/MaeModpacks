@@ -6,11 +6,6 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -48,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "291970a084c6e18e44395d83077bce246e5781cf2e0b1393271e30bdb70e439d"
 metafile = true
 
 [[files]]
@@ -111,11 +101,6 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "c8ad39722e45e05e34a132a77a06c7ee78e52529ba017c71b8e48c15b2e60897"
 metafile = true
@@ -128,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "ff3bd2566683b7b26365e3754d652af73b4656666391803091de2eb30827b9e6"
 metafile = true
 
 [[files]]
@@ -243,16 +223,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "6a89251bae4eebf942681cdb5cf017f051e2c62cb953ea72aa2d9f93c495454e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "20beda5f9b049a2352334a0f8dd8de122e7399f8a446d8f78aeecba85d99bbdc"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "113533d8c1deb0d31e37ef95b47e3a34f84556aabdb5da710e915b3b20153470"
 metafile = true
 
 [[files]]
